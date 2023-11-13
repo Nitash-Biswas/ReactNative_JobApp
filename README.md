@@ -1,5 +1,6 @@
 # Link to the App
-[ReactNative_JobApp expo link](https://expo.dev/@nitash/React_Native_App?serviceType=classic&distribution=expo-go){:target="_blank"}
+<a href="https://expo.dev/@nitash/React_Native_App?serviceType=classic&distribution=expo-go" target="_blank">ReactNative_JobApp expo link</a>
+
 
 ## Screenshots
 <table>
